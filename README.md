@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on My Final Year Project.
+- 🔭 I’m currently developing my coding skills.
 - 🌱 I’m currently learning Dart Language.
 - 👯 I’m looking to collaborate on Flutter Projects.
 
